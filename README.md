@@ -1,16 +1,17 @@
-## Hi there 👋
+# Holaa, soy Antonio!!
+* Soy Técnico en Administración de Sistemas Informáticos en Red (ASIR)
+* Actualmente estudio Desarrollo de Aplicaciones Multiplataforma (DAM), ampliando mis conocimientos hacia el desarrollo de software.
+* Tengo conocimientos en Java, Python, SQL, HTML, CSS, JavaScript, Git y GitHub, además de experiencia académica en administración de sistemas y redes.
+* Siempre con ganas de aprender, afrontar nuevos retos y seguir creciendo en el sector tecnológico.
 
-<!--
-**amancab828/amancab828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+### Contacto
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/antonio-mancilla-cabeza-50500235b/))
+[![gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antonio2005020405@gmail.com)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### Github Stats
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amancab828&theme=default" height="170">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amancab828&theme=default" height="170">
+</p>
